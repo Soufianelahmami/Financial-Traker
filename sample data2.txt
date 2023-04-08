@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"In today's world, managing personal finances can be a daunting task. Keeping track of expenses, managing budgets, and saving for future goals can be challenging without a proper system in place. Fortunately,","photo":"https://iili.io/HkjfOmB.webp"},
+  {"title":"tips pack 2","desc":"Managing personal money can be difficult in today's environment. Without an effective system in place, monitoring budgets, keeping track of costs, and setting aside money for future goals can be difficult. Fortunately,","photo":"https://iili.io/HkjfvX1.jpg"},
+  {"title":"advice mod 3","desc":" financial tracker applications have emerged as an effective solution to this problem. In this article, we will discuss the benefits and features of financial tracker applications and how they can help you take control of your finances.","photo":"https://iili.io/HkjfkzP.jpg"},
+  {"title":"how to use this app 4","desc":"Applications for tracking finances have become a successful answer to this issue. We'll go through the advantages and features of financial tracker apps in this post, as well as how they can give you financial control.","photo":"https://iili.io/Hkjf8LF.jpg"},
+  {"title":"advance pack 5 ","desc":"A financial tracker application is a tool that helps you manage your finances by tracking your income and expenses. These apps offer a wide range of features such as budgeting, bill tracking, investment tracking, and financial goal setting.","photo":"https://iili.io/HkjfUqg.jpg"},
+  {"title":"helper mod 6","desc":"By keeping track of your income and expenses, a financial tracker application is a tool that can help you manage your finances. Many capabilities, including budgeting, bill paying, investment tracking, and financial goal setting, are available in these apps.","photo":"https://iili.io/Hkjfg1a.webp"},
+  {"title":"tips pack 7","desc":"With the help of these tools, you can easily monitor your financial health and make informed decisions about your money.","photo":"https://iili.io/HkjfrrJ.jpg"},
+  {"title":"advice mod 8","desc":"One of the most significant benefits of financial tracker applications is that they help you gain a better understanding of your spending habits. By tracking your expenses, you can identify areas where you are overspending and make adjustments to your budget. For example.","photo":"https://iili.io/Hkjf6dv.png"}
 
    ]
  
